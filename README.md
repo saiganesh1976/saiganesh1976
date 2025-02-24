@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student and an a
   - Arduino projects and sensor integration.
 - 📫 How to reach me:
   - Email: [ratnalasaiganesh@gmail.com](mailto:ratnalasaiganesh@gmail.com)
-  - LinkedIn: [Sai Ganesh Ratnala](https://www.linkedin.com/in/ratnala-saiganesh/)
+  - LinkedIn: [Sai Ganesh Ratnala](https://www.linkedin.com/in/saiganeshratnala/)
 
 ## 🔧 Technologies & Tools
 <p>
